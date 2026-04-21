@@ -81,12 +81,12 @@ The rendered output is placed in the `docs/` directory.
 
 ## Adding a New Post
 
-1. Create a new folder inside `posts/` named with the format `YYYY-MM-DD-your-post-title/`:
+1. Create a new folder inside `posts/` named with the format `YYYY-MM-DD-your-post-title/` and add your content file (`.qmd` for Quarto markdown or `.ipynb` for Jupyter notebooks):
 
    ```
    posts/
    └── 2024-01-15-my-new-post/
-       └── index.qmd
+       └── index.qmd      # or index.ipynb for a Jupyter notebook
    ```
 
 2. Add a YAML front matter block at the top of your `.qmd` or `.ipynb` file. For example:
