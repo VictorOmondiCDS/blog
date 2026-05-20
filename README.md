@@ -1,5 +1,7 @@
 # Victor Omondi's Blog
 
+[![Quarto Publish](https://github.com/VictorOmondiCDS/blog/actions/workflows/publish.yml/badge.svg)](https://github.com/VictorOmondiCDS/blog/actions/workflows/publish.yml)
+
 A personal data science blog built with [Quarto](https://quarto.org/), featuring posts on data analysis, data wrangling, statistical thinking, machine learning, and more.
 
 🌐 **Live site:** [https://victoromondi1997.quarto.pub/blog/](https://victoromondi1997.quarto.pub/blog/)
