@@ -19,7 +19,7 @@ fastcore==1.5.28
 fastjsonschema==2.16.2
 fqdn==1.5.1
 ghapi==1.0.3
-idna==3.7
+idna==3.15
 ipykernel==6.21.2
 ipython==8.10.0
 ipython-genutils==0.2.0
