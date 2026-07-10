@@ -40,7 +40,7 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 MarkupSafe==2.1.2
 matplotlib-inline==0.1.6
-mistune==3.2.1
+mistune==3.3.0
 nbclassic==0.5.1
 nbclient==0.7.2
 nbconvert==7.17.1
